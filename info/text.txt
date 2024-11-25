@@ -1,0 +1,14 @@
+GPT
+https://chatgpt.com/c/673f159c-8714-800c-9f3e-c8fa9439dcab
+
+
+21 points
+https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker 
+
+
+Components
+servos
+
+
+Youtube - cam controlled robot hand
+https://www.youtube.com/watch?v=eTNtMiK0fKk
